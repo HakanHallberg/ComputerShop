@@ -1,0 +1,7 @@
+Sökrutan fungerar inte.
+Karusellen visar bilderna i olika storlek.
+Footer ser konstig ut i mobilformat.
+Karusellen blir fel i mobilformat.
+Försökte lägga till en Lightbox, men klockan är för mycket.
+
+God natt! (morgon)
